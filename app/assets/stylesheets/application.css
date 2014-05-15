@@ -6287,7 +6287,7 @@ a:after {
     z-index: 999;
     width: 100%;
     display: table;
-    max-height: 450px;
+    max-height: 1050px;
     border-bottom: 2px solid #E6EAED;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -6330,7 +6330,8 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/bg/divider1.jpg')
+	background-image: url('http://i.imgur.com/1kYcvSW.jpg');
+  height: 500px;
 }
 
 .divider2 {
@@ -6338,8 +6339,9 @@ a:after {
 }
 
 .divider3 {
-	background-image: url('../img/bg/divider3.jpg');
+	background-image: url('http://cache.ultiworld.com/wordpress/wp-content/uploads/2014/04/beach-ultimate.jpg');
 	margin-top: 0px;
+  height: 800px;
 }
 
 .divider4 {
@@ -6348,7 +6350,7 @@ a:after {
 
 .divider6 {
 	background-image: url('http://i.imgur.com/23DtEdg.jpg')
-  
+
 }
 
 
