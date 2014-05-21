@@ -6339,13 +6339,13 @@ a:after {
 }
 
 .divider3 {
-	background-image: url('http://cache.ultiworld.com/wordpress/wp-content/uploads/2014/04/beach-ultimate.jpg');
+	background-image: url('../assets/beach.jpg');
 	margin-top: 0px;
   height: 800px;
 }
 
 .divider4 {
-	background-image: url('../img/bg/divider4.jpg')
+	background-image: url('..')
 }
 
 .divider6 {
